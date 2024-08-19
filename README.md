@@ -31,5 +31,21 @@
 -  Libraries: Pandas, NumPy, Matplotlib, Seaborn
 -  Tools: Jupyter Notebook, Git
 
+## Project Structure
+-  Data: Contains the raw and processed datasets used in the analysis.
+-  Notebooks: Jupyter notebooks containing the data analysis, visualization, and modeling.
+-  Reports: Includes the final report and presentation summarizing the findings.
+
+## Results
+-  Key Findings: The analysis revealed that factors like booking lead time, customer type, and special requests significantly impact the likelihood of 
+   cancellations.
+
+## Conclusion
+-  This project provides valuable insights into hotel booking cancellation behavior and offers a predictive model that can assist hotels in reducing their 
+   cancellation rates. The findings can help hotels implement targeted strategies to enhance customer retention and optimize revenue.
+   
+
+
+
 
 
