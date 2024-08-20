@@ -41,7 +41,10 @@
 ## Conclusion
 -  This project provides valuable insights into hotel booking cancellation behavior and offers a predictive model that can assist hotels in reducing their 
    cancellation rates. The findings can help hotels implement targeted strategies to enhance customer retention and optimize revenue.
-   
+
+## Suggestions
+-  In order to prevent cancellation hotels could work on their pricing strategies, like providing discount or lower down the rates.
+-  Hotels need to work on the quality of their services and management to attract,impress customers. 
 
 
 
