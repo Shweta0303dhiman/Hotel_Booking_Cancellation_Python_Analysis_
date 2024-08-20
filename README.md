@@ -10,7 +10,7 @@
 7. Suggestions
 
 ## Project Objective
-- With help of Python's data visualization libraries (e.g., Matplotlib, Seaborn)and various data analysis techniques to uncover patterns and insights that can help 
+- With help of Python's data visualization libraries (e.g.Matplotlib, Seaborn)and various data analysis techniques to uncover patterns and insights that can help 
   hotels optimize their booking processes, reduce cancellation rates, and improve revenue management strategies.
   
 ## Key Features
@@ -19,11 +19,9 @@
      condition for analysis.
 2. Exploratory Data Analysis (EDA):
    - Conducted to understand the distribution of key variables, correlations, and trends.
-3. Statistical Analysis:
-   - Conducted to understand the distribution of key variables, correlations, and trends.
-4. Visualization: 
+3. Visualization: 
    - Visualizations illustrate the relationships between different variables and cancellation likelihood.
-5. Insights and Recommendations:
+4. Insights and Recommendations:
    - Based on the analysis, actionable insights and recommendations were provided to help hotel managers implement strategies to minimize cancellations.
 
 ## Technologies Used
